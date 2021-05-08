@@ -4,13 +4,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-header{
-    background-image: url(../3.png);
-    height: 5.9vh;
-    background-size: cover;
-    background-position: center;
-}
-
 
 ul li{
     float: center;
